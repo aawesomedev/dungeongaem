@@ -1,7 +1,7 @@
 {
-	"name": "Meal Dungeon",
-	"short_name": "Meal Dungeon",
-	"description": "Dungeon full of huge meals!",
+	"name": "dungeon gaem",
+	"short_name": "dungeon gaem",
+	"description": "very cool game",
 	"start_url": "index.html",
 	"display": "fullscreen",
 	"orientation": "landscape",
